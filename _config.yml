@@ -5,13 +5,13 @@ description: > # this means to ignore newlines until "baseurl:"
   A series of participative sessions among coding enthusiasts interested
   in data analysis, number crunching and teaching of statistics. Quite R-based
   but welcoming other languages and tools.
-url: "https://codingclubuc3m.github.io" # the base hostname & protocol for your site
+url: "https://snowdj.github.io" # the base hostname & protocol for your site
 github_username: codingclubuc3m
 permalink: /:year/:month/:day/:title.html
 # highlighter:  rouge (on my Mac, need to set this to rouge or flas with Jekyll 3.0)
 author: Coding Club UC3M
 
-baseurl: "/" # the sub-path of your proejct site, e.g. /myProject/
+baseurl: "/codingclub/" # the sub-path of your proejct site, e.g. /myProject/
              # or "/" for user site
 
 # limit posts on Home page to this number:
